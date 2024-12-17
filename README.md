@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Mayank Shivhare 👋
 
-<!--
-**MayankShivhare999/MayankShivhare999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a developer(Learner) with a keen interest in software development. I enjoy solving problems and continuously learning new technologies.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working Software developer @ Advanz101.
+- 🌱 I’m currently learning advanced algorithms and data structures.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask(Discuss) me about Java, Spring boot, JavaScript, and Software/Web development.
+- 📫 How to reach me: [mayank.shivhare@gmail.com](mailto:mayank.shivhare@gmail.com)
+- ⚡ Fun fact: I am a good guy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Java, JavaScript
+- **Web Development:** HTML, CSS, Angular
+- **Database:** PostgresSQL, MySQL, MongoDB
+- **Tools & Technologies:** Git, Docker
+
+## GitHub Stats (Not much avtive here)
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayankShivhare999&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayankShivhare999&layout=compact&theme=radical)
+
+## Connect with Me
+- [LinkedIn]([https://www.linkedin.com/in/MayankShivhare999/](https://www.linkedin.com/in/mayankms/)
+
+Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects.
