@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
+  <!-- Gradient Definition -->
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff7eb3; stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#ff758c; stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff6f61; stop-opacity:1" />
+    </linearGradient>
+    <style>
+      @keyframes shine {
+        0% { fill: url(#gradient); }
+        50% { fill: #ffffff; }
+        100% { fill: url(#gradient); }
+      }
+      .animated-text {
+        font-family: "Arial Black", sans-serif;
+        font-size: 80px;
+        font-weight: bold;
+        animation: shine 3s infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Animated Text -->
+  <text x="50" y="120" class="animated-text" fill="url(#gradient)">
+    Mayank
+  </text>
+</svg>
